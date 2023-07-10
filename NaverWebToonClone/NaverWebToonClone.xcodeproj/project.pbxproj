@@ -7,38 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1197EEE62A3F566200A4907E /* CarrotMarketApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197EEE52A3F566200A4907E /* CarrotMarketApp.swift */; };
-		1197EEE82A3F566200A4907E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197EEE72A3F566200A4907E /* ContentView.swift */; };
-		1197EEEA2A3F566300A4907E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1197EEE92A3F566300A4907E /* Assets.xcassets */; };
-		1197EEED2A3F566300A4907E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1197EEEC2A3F566300A4907E /* Preview Assets.xcassets */; };
-		1197EEF72A3F5C2100A4907E /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197EEF62A3F5C2100A4907E /* MainTabView.swift */; };
-		1197EEF92A3F5C7300A4907E /* HomeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197EEF82A3F5C7300A4907E /* HomeTabView.swift */; };
-		1197EEFB2A3F60EC00A4907E /* LocalLifeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197EEFA2A3F60EC00A4907E /* LocalLifeView.swift */; };
-		119F36392A40658A00E3E6DB /* NearMeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119F36382A40658A00E3E6DB /* NearMeView.swift */; };
-		119F363B2A40659F00E3E6DB /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119F363A2A40659F00E3E6DB /* ChatView.swift */; };
-		119F363D2A4065AF00E3E6DB /* MyCarrotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119F363C2A4065AF00E3E6DB /* MyCarrotView.swift */; };
-		119F363F2A406F8100E3E6DB /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119F363E2A406F8100E3E6DB /* ItemModel.swift */; };
-		119F36422A40854E00E3E6DB /* Color+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119F36412A40854E00E3E6DB /* Color+.swift */; };
+		1172DE9A2A5C151600EA8B27 /* NaverWebToonCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1172DE992A5C151600EA8B27 /* NaverWebToonCloneApp.swift */; };
+		1172DE9C2A5C151600EA8B27 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1172DE9B2A5C151600EA8B27 /* ContentView.swift */; };
+		1172DE9E2A5C151700EA8B27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1172DE9D2A5C151700EA8B27 /* Assets.xcassets */; };
+		1172DEA12A5C151700EA8B27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1172DEA02A5C151700EA8B27 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1197EEE22A3F566200A4907E /* CarrotMarket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarrotMarket.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1197EEE52A3F566200A4907E /* CarrotMarketApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrotMarketApp.swift; sourceTree = "<group>"; };
-		1197EEE72A3F566200A4907E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		1197EEE92A3F566300A4907E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1197EEEC2A3F566300A4907E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		1197EEF62A3F5C2100A4907E /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
-		1197EEF82A3F5C7300A4907E /* HomeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabView.swift; sourceTree = "<group>"; };
-		1197EEFA2A3F60EC00A4907E /* LocalLifeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalLifeView.swift; sourceTree = "<group>"; };
-		119F36382A40658A00E3E6DB /* NearMeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearMeView.swift; sourceTree = "<group>"; };
-		119F363A2A40659F00E3E6DB /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
-		119F363C2A4065AF00E3E6DB /* MyCarrotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCarrotView.swift; sourceTree = "<group>"; };
-		119F363E2A406F8100E3E6DB /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
-		119F36412A40854E00E3E6DB /* Color+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+.swift"; sourceTree = "<group>"; };
+		1172DE962A5C151600EA8B27 /* NaverWebToonClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NaverWebToonClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1172DE992A5C151600EA8B27 /* NaverWebToonCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaverWebToonCloneApp.swift; sourceTree = "<group>"; };
+		1172DE9B2A5C151600EA8B27 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1172DE9D2A5C151700EA8B27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1172DEA02A5C151700EA8B27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1197EEDF2A3F566200A4907E /* Frameworks */ = {
+		1172DE932A5C151600EA8B27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -48,117 +32,77 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1197EED92A3F566100A4907E = {
+		1172DE8D2A5C151600EA8B27 = {
 			isa = PBXGroup;
 			children = (
-				1197EEE42A3F566200A4907E /* CarrotMarket */,
-				1197EEE32A3F566200A4907E /* Products */,
+				1172DE982A5C151600EA8B27 /* NaverWebToonClone */,
+				1172DE972A5C151600EA8B27 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1197EEE32A3F566200A4907E /* Products */ = {
+		1172DE972A5C151600EA8B27 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1197EEE22A3F566200A4907E /* CarrotMarket.app */,
+				1172DE962A5C151600EA8B27 /* NaverWebToonClone.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1197EEE42A3F566200A4907E /* CarrotMarket */ = {
+		1172DE982A5C151600EA8B27 /* NaverWebToonClone */ = {
 			isa = PBXGroup;
 			children = (
-				119F36402A40853000E3E6DB /* Extension */,
-				1197EEF52A3F5BF500A4907E /* ViewModel */,
-				1197EEF42A3F5BEE00A4907E /* Model */,
-				1197EEF32A3F5BE500A4907E /* View */,
-				1197EEE52A3F566200A4907E /* CarrotMarketApp.swift */,
-				1197EEE72A3F566200A4907E /* ContentView.swift */,
-				1197EEE92A3F566300A4907E /* Assets.xcassets */,
-				1197EEEB2A3F566300A4907E /* Preview Content */,
+				1172DE992A5C151600EA8B27 /* NaverWebToonCloneApp.swift */,
+				1172DE9B2A5C151600EA8B27 /* ContentView.swift */,
+				1172DE9D2A5C151700EA8B27 /* Assets.xcassets */,
+				1172DE9F2A5C151700EA8B27 /* Preview Content */,
 			);
-			path = CarrotMarket;
+			path = NaverWebToonClone;
 			sourceTree = "<group>";
 		};
-		1197EEEB2A3F566300A4907E /* Preview Content */ = {
+		1172DE9F2A5C151700EA8B27 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				1197EEEC2A3F566300A4907E /* Preview Assets.xcassets */,
+				1172DEA02A5C151700EA8B27 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		1197EEF32A3F5BE500A4907E /* View */ = {
-			isa = PBXGroup;
-			children = (
-				1197EEF62A3F5C2100A4907E /* MainTabView.swift */,
-				1197EEF82A3F5C7300A4907E /* HomeTabView.swift */,
-				1197EEFA2A3F60EC00A4907E /* LocalLifeView.swift */,
-				119F36382A40658A00E3E6DB /* NearMeView.swift */,
-				119F363A2A40659F00E3E6DB /* ChatView.swift */,
-				119F363C2A4065AF00E3E6DB /* MyCarrotView.swift */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		1197EEF42A3F5BEE00A4907E /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				119F363E2A406F8100E3E6DB /* ItemModel.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		1197EEF52A3F5BF500A4907E /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModel;
-			sourceTree = "<group>";
-		};
-		119F36402A40853000E3E6DB /* Extension */ = {
-			isa = PBXGroup;
-			children = (
-				119F36412A40854E00E3E6DB /* Color+.swift */,
-			);
-			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1197EEE12A3F566200A4907E /* CarrotMarket */ = {
+		1172DE952A5C151600EA8B27 /* NaverWebToonClone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1197EEF02A3F566300A4907E /* Build configuration list for PBXNativeTarget "CarrotMarket" */;
+			buildConfigurationList = 1172DEA42A5C151700EA8B27 /* Build configuration list for PBXNativeTarget "NaverWebToonClone" */;
 			buildPhases = (
-				1197EEDE2A3F566200A4907E /* Sources */,
-				1197EEDF2A3F566200A4907E /* Frameworks */,
-				1197EEE02A3F566200A4907E /* Resources */,
+				1172DE922A5C151600EA8B27 /* Sources */,
+				1172DE932A5C151600EA8B27 /* Frameworks */,
+				1172DE942A5C151600EA8B27 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CarrotMarket;
-			productName = CarrotMarket;
-			productReference = 1197EEE22A3F566200A4907E /* CarrotMarket.app */;
+			name = NaverWebToonClone;
+			productName = NaverWebToonClone;
+			productReference = 1172DE962A5C151600EA8B27 /* NaverWebToonClone.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1197EEDA2A3F566100A4907E /* Project object */ = {
+		1172DE8E2A5C151600EA8B27 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
-					1197EEE12A3F566200A4907E = {
+					1172DE952A5C151600EA8B27 = {
 						CreatedOnToolsVersion = 14.3;
 					};
 				};
 			};
-			buildConfigurationList = 1197EEDD2A3F566100A4907E /* Build configuration list for PBXProject "CarrotMarket" */;
+			buildConfigurationList = 1172DE912A5C151600EA8B27 /* Build configuration list for PBXProject "NaverWebToonClone" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -166,50 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 1197EED92A3F566100A4907E;
-			productRefGroup = 1197EEE32A3F566200A4907E /* Products */;
+			mainGroup = 1172DE8D2A5C151600EA8B27;
+			productRefGroup = 1172DE972A5C151600EA8B27 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1197EEE12A3F566200A4907E /* CarrotMarket */,
+				1172DE952A5C151600EA8B27 /* NaverWebToonClone */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1197EEE02A3F566200A4907E /* Resources */ = {
+		1172DE942A5C151600EA8B27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1197EEED2A3F566300A4907E /* Preview Assets.xcassets in Resources */,
-				1197EEEA2A3F566300A4907E /* Assets.xcassets in Resources */,
+				1172DEA12A5C151700EA8B27 /* Preview Assets.xcassets in Resources */,
+				1172DE9E2A5C151700EA8B27 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1197EEDE2A3F566200A4907E /* Sources */ = {
+		1172DE922A5C151600EA8B27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1197EEF92A3F5C7300A4907E /* HomeTabView.swift in Sources */,
-				119F36422A40854E00E3E6DB /* Color+.swift in Sources */,
-				119F363D2A4065AF00E3E6DB /* MyCarrotView.swift in Sources */,
-				1197EEFB2A3F60EC00A4907E /* LocalLifeView.swift in Sources */,
-				119F363F2A406F8100E3E6DB /* ItemModel.swift in Sources */,
-				119F36392A40658A00E3E6DB /* NearMeView.swift in Sources */,
-				1197EEE82A3F566200A4907E /* ContentView.swift in Sources */,
-				119F363B2A40659F00E3E6DB /* ChatView.swift in Sources */,
-				1197EEE62A3F566200A4907E /* CarrotMarketApp.swift in Sources */,
-				1197EEF72A3F5C2100A4907E /* MainTabView.swift in Sources */,
+				1172DE9C2A5C151600EA8B27 /* ContentView.swift in Sources */,
+				1172DE9A2A5C151600EA8B27 /* NaverWebToonCloneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1197EEEE2A3F566300A4907E /* Debug */ = {
+		1172DEA22A5C151700EA8B27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		1197EEEF2A3F566300A4907E /* Release */ = {
+		1172DEA32A5C151700EA8B27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -323,14 +259,14 @@
 			};
 			name = Release;
 		};
-		1197EEF12A3F566300A4907E /* Debug */ = {
+		1172DEA52A5C151700EA8B27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CarrotMarket/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"NaverWebToonClone/Preview Content\"";
 				DEVELOPMENT_TEAM = W43DLLFB4Q;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -344,7 +280,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sean.swiftui.isnotwrongcode.CarrotMarket;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sean.swiftui.isnotwrongcode.NaverWebToonClone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -352,14 +288,14 @@
 			};
 			name = Debug;
 		};
-		1197EEF22A3F566300A4907E /* Release */ = {
+		1172DEA62A5C151700EA8B27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CarrotMarket/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"NaverWebToonClone/Preview Content\"";
 				DEVELOPMENT_TEAM = W43DLLFB4Q;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -373,7 +309,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sean.swiftui.isnotwrongcode.CarrotMarket;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sean.swiftui.isnotwrongcode.NaverWebToonClone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -384,25 +320,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1197EEDD2A3F566100A4907E /* Build configuration list for PBXProject "CarrotMarket" */ = {
+		1172DE912A5C151600EA8B27 /* Build configuration list for PBXProject "NaverWebToonClone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1197EEEE2A3F566300A4907E /* Debug */,
-				1197EEEF2A3F566300A4907E /* Release */,
+				1172DEA22A5C151700EA8B27 /* Debug */,
+				1172DEA32A5C151700EA8B27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1197EEF02A3F566300A4907E /* Build configuration list for PBXNativeTarget "CarrotMarket" */ = {
+		1172DEA42A5C151700EA8B27 /* Build configuration list for PBXNativeTarget "NaverWebToonClone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1197EEF12A3F566300A4907E /* Debug */,
-				1197EEF22A3F566300A4907E /* Release */,
+				1172DEA52A5C151700EA8B27 /* Debug */,
+				1172DEA62A5C151700EA8B27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1197EEDA2A3F566100A4907E /* Project object */;
+	rootObject = 1172DE8E2A5C151600EA8B27 /* Project object */;
 }
